@@ -27,7 +27,9 @@ function getRecipesFromStorage() {
   if(localStorage.getItem("recipes") != null){
     return (JSON.parse(localStorage.getItem("recipes")));
   }
-  else return {};
+  else {
+    return ([]);
+  }
   
 }
 

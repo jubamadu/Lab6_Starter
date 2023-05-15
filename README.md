@@ -1,4 +1,4 @@
 # Lab 6 - Starter
-https://jubamadu.github.io/Lab6_Starter/ <br>
+[Link to the site](https://anvimittal.github.io/Lab6_Starter/) <br>
 Anvi Mittal <br>
 Justin Ubamadu
